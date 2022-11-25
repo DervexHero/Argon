@@ -6,7 +6,7 @@ Argon is a simple two-way sync plugin for Roblox and extension for Visual Studio
 # Links
 * Roblox [plugin](https://create.roblox.com/marketplace/asset/11263738833/)
 * Visual Studio Code [extension](https://marketplace.visualstudio.com/items?itemName=Dervex.argon)
-* Github [repository](https://github.com/DervexHero/Argon)
+* GitHub [repository](https://github.com/DervexHero/Argon)
 * DevForum [topic](https://devforum.roblox.com/t/2021776)
 
 # Features
@@ -75,13 +75,13 @@ https://user-images.githubusercontent.com/78505208/198825649-f064e6db-91a3-47d1-
 
 # Changelog
 ## 0.3.0
-* Added releases on Github
+* Added releases on GitHub
 * Added local website with Argon stats
 * Added option to sync only code (exclude empty instances)
 * Added option for VSC extension to suppress notifications
 * Connecting multiple clients to one Argon server is no longer possible
 * StarterPlayer no longer ports to VSC if StarterPlayerScripts and StarterCharacterScripts are empty
-* Fixed extension not stopping when plugin was still sending requests (temp fix by destroying websockets, this method will change when Electron adds support for node.js 18.2.0+))
+* Fixed extension not stopping when plugin was still sending requests (temp fix by destroying websockets, this method will change when Electron adds support for node.js 18.2.0+)
 * Fixed notifications displaying twice when Argon got enabled with command
 * Fixed class filtering selector color on light mode
 * Fixed plugin auto run option
