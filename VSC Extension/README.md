@@ -1,1 +1,0 @@
-# This branch contains the API with the current Argon version
